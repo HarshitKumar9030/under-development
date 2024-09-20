@@ -1,3 +1,2 @@
 # under-development
-
-- pageclip as a form server.
+leoncyriac.me
